@@ -3,13 +3,13 @@
 I am a senior GIS Analyst at [Attexo](https://www.attexo.com.au/), Queensland, Australia. 
 
 [Linkedin Profile](https://www.linkedin.com/in/maani-kheradmandi/)
-#
+
 ### **PROFESSIONAL PROFILE**
 
 
 A highly dedicated GIS Analyst with over 5 years of experience in data gathering, spatial analysis, and data integration. Skilled in Editing, map production, and spatial modeling. Proficient in ESRI ArcGIS, QGIS, AutoCAD, and FME. Having a master’s degree in Geospatial Information Science (GIS) and Experienced in working on multiple projects simultaneously. 
 
-#
+
 ### KEY SKILLS & PROFESSIONAL STRENGTHS 
 
 
